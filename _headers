@@ -1,9 +1,9 @@
-*.wasm
+/*.wasm
   Content-Type: application/wasm
 
-*.mjs
+/*.mjs
   Content-Type: application/javascript
 
-*.js
+/*.js
   Content-Type: application/javascript
 
